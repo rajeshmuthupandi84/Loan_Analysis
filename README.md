@@ -1,4 +1,4 @@
-# Loan_Analysis
+# Customer Chrun Analysis
 
 Created this Report by using following steps -:
 1) Data Cleaning in Power query editor (Cleaning, fixing datatype errors)
